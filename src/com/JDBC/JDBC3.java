@@ -1,3 +1,5 @@
+package com.JDBC;
+
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.plaf.nimbus.State;
